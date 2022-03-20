@@ -1,0 +1,164 @@
+.header_logo
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    letter-spacing: -0.045em;
+    margin: 38px 96px;
+}
+.squad
+{
+	color: #EE58B6;
+}
+.menu
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 1.5;
+	margin-left: 96px;
+	margin-bottom: 38px;
+}	
+.button
+{   width: 200px;
+    height: 45px;
+    background: #05090C;
+    border-radius: 4.59px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    text-align: center;
+    color: #FFFFFF;
+	margin-left: 96px;
+	
+}
+h1
+{
+	font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 80px;
+    margin-left: 96px;
+}
+.text
+{
+	font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+	line-height: 120%;
+}
+.description
+{
+    width: 450px;
+	font-size: 20.7px;
+	margin-block-start: 0px;
+	margin-block-end: 0px;
+	margin-left: 97px;
+	margin-top: -10.3px;
+}
+.wide
+{
+	width: 267px;
+	margin-top: 36px;
+    padding: 0px;
+}
+.done
+{	
+	margin-top: 60px;
+	padding: 0px;
+	width: 680px;
+}
+.box
+{
+	width: 1510px;
+    height: 319*4px;
+	background: #000000;
+	color: #FFFFFF;
+    font-size: 17.5px;
+}
+.icone
+{
+	width: 49px;
+	margin-left: 222px;
+	margin-top: 88px;
+}
+.border
+{
+	width: 270px;
+	height: 52px;
+	margin-top: 12px;
+	margin-left: 110.4px;
+	text-align: center;
+	
+}
+h2
+{
+	font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 38.7px;
+	margin-left: 96px;
+}
+.finances
+{
+	width: 430px;
+	margin-left: 96px;
+}
+.text_third_box
+{
+	margin-left: 96px;
+	font-size: 14.5px;
+	margin-top: -9px;
+	line-height: 125%;
+}
+.MindBlowing
+{
+	width: 400px;
+	margin-left: 96px;	
+}
+.mini_box
+{
+	width: 287px;
+	height: 153px;
+	background: #000000;
+	border-radius: 7.35723px;
+	color: #FFFFFF;
+	font-size: 18px;
+	margin-bottom: 10px;
+	
+}
+.fingers
+{
+    width: 30px;
+	margin-left: 31px;
+	margin-top: 27px;
+}
+.text_mini_box
+{
+	margin-left: 30.9px;
+	font-size: 14.5px;
+	margin-top: 12.5px;
+	line-height: 120%;
+}
+.footer_logo
+{
+	width: 1510px;
+    height: 86px;
+	background: #000000;
+	float: left;
+}
+.text_footer
+{
+	font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+	color: #ffffff;
+    margin-left: 699px;
+	letter-spacing: -0.045em;
+	margin-top: 28px;
+}
+
