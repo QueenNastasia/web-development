@@ -1,4 +1,3 @@
-"use strict";
 let data = prompt('Введите положительное число или массив чисел');
 function ConditionCheck(data){
 	let dataArray = [];
@@ -31,7 +30,7 @@ function ConditionCheck(data){
 	  }
 }
 function isPrimeNumber(data){
-	let countDenominator = 1;
+	let countDenominator = 0;
 	if (typeof data == 'object'){
 		for(let i = 0; i <= (data.length - 1); i++){
 		    for(let denominator = 1; denominator <= Math.ceil(Math.sqrt(data[i])); denominator++){
